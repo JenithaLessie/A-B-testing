@@ -29,13 +29,16 @@ As a requirement of the Chi-Square Test For Independence, we aggregated this dat
 Results & Discussion
 Based upon our observed values, we can give this all some context with the sign-up rate of each group. We get:
 
-Mailer 1 (Low Cost): 32.8% signup rate
+Mailer 1 (Low Cost): 32.8% signup rate, 
+
 Mailer 2 (High Cost): 37.8% signup rate
 
 However, the Chi-Square Test gives us the following statistics:
 
-Chi-Square Statistic: 1.94
-p-value: 0.16
+Chi-Square Statistic: 1.94, 
+
+p-value: 0.16, 
+
 The Critical Value for our specified Acceptance Criteria of 0.05 is 3.84
 
 Based upon these statistics, we retain the null hypothesis, and conclude that there is no relationship between mailer type and signup rate.
